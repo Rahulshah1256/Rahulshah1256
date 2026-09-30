@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul Kumar - Software Engineer / AI Builder</title>
+  <desc id="desc">AI agents. Reliable systems. Thoughtful products. Java, Spring Boot, Google ADK, and React. A connected neural constellation with intersecting orbits decorates the right side of a dark navy banner.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111b32"/>
+      <stop offset="1" stop-color="#080f20"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#3730a3" stop-opacity=".28"/>
+      <stop offset=".65" stop-color="#164e63" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#080f20" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="core">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#818cf8" stop-opacity=".04"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#surface)"/>
+  <rect x=".5" y=".5" width="1199" height="359" rx="23.5" fill="none" stroke="#28344d"/>
+  <ellipse cx="978" cy="180" rx="220" ry="178" fill="url(#halo)"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <rect x="64" y="46" width="48" height="4" rx="2" fill="url(#accent)"/>
+    <text x="64" y="89" fill="#a5b4fc" font-size="14" font-weight="600" letter-spacing="2.6">SOFTWARE ENGINEER / AI BUILDER</text>
+    <text x="60" y="167" fill="#f1f5f9" font-size="64" font-weight="700" letter-spacing="-2">Rahul Kumar</text>
+    <text x="64" y="213" fill="#b6c3d8" font-size="22">AI agents. Reliable systems. Thoughtful products.</text>
+    <path d="M64 264H712" stroke="#28344d"/>
+    <text x="64" y="301" fill="#94a3b8" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1">JAVA / SPRING BOOT / GOOGLE ADK / REACT</text>
+  </g>
+
+  <g aria-hidden="true">
+    <g fill="none" stroke="#334461" stroke-width="1">
+      <circle cx="970" cy="180" r="122" stroke-dasharray="2 10"/>
+      <path d="M970 43V55M970 305V317M833 180H845M1095 180H1107"/>
+    </g>
+    <g fill="none" stroke="url(#accent)">
+      <ellipse cx="970" cy="180" rx="165" ry="79" transform="rotate(-32 970 180)" stroke-width="1.3" opacity=".55"/>
+      <ellipse cx="970" cy="180" rx="165" ry="79" transform="rotate(32 970 180)" stroke-width="1" opacity=".25"/>
+      <circle cx="970" cy="180" r="52" opacity=".35"/>
+    </g>
+    <g fill="none" stroke="url(#accent)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity=".65">
+      <path d="M856 123L918 100L1021 110L1085 158L1050 247L953 271L875 226Z"/>
+      <path d="M856 123L970 180L918 100M970 180L1021 110L1085 158L970 180L1050 247L953 271L970 180L875 226"/>
+      <path d="M918 100L875 226M1021 110L1050 247" opacity=".35"/>
+    </g>
+    <circle cx="970" cy="180" r="43" fill="url(#core)"/>
+    <rect x="948" y="158" width="44" height="44" rx="13" transform="rotate(45 970 180)" fill="#14253e" stroke="url(#accent)" stroke-width="1.5"/>
+    <path d="M958 180H982M970 168V192" stroke="#a5f3fc" stroke-width="2" stroke-linecap="round"/>
+    <g fill="#0e192d" stroke-width="2">
+      <circle cx="856" cy="123" r="5" stroke="#818cf8"/>
+      <circle cx="918" cy="100" r="7" stroke="#a5b4fc"/>
+      <circle cx="1021" cy="110" r="5" stroke="#67e8f9"/>
+      <circle cx="1085" cy="158" r="7" stroke="#22d3ee"/>
+      <circle cx="1050" cy="247" r="5" stroke="#67e8f9"/>
+      <circle cx="953" cy="271" r="6" stroke="#a5b4fc"/>
+      <circle cx="875" cy="226" r="7" stroke="#818cf8"/>
+    </g>
+    <g fill="#67e8f9">
+      <circle cx="918" cy="100" r="2.5"/>
+      <circle cx="1085" cy="158" r="2.5"/>
+      <circle cx="1097" cy="84" r="3" opacity=".8"/>
+      <circle cx="843" cy="276" r="3" opacity=".6"/>
+    </g>
+    <g fill="#818cf8" opacity=".6">
+      <circle cx="1116" cy="243" r="2"/>
+      <circle cx="889" cy="65" r="2"/>
+      <circle cx="1024" cy="304" r="2"/>
+    </g>
+  </g>
+</svg>

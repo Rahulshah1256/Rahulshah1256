@@ -1,131 +1,136 @@
-# Hi, I'm Rahul Kumar 👋
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Rahul Kumar — Software Engineer, AI Engineer, Full-Stack Engineer">
+  <img src="./dark.svg" alt="Rahul Kumar - Software Engineer and AI Builder. AI agents, reliable systems, thoughtful products." width="100%">
 </picture>
 
 <p align="center">
-  <b>Software Engineer, AI Engineer, Full-Stack Engineer</b>
+  <strong>Software Engineer @ Lloyds Technology Centre</strong><br>
+  Building at the intersection of AI, backend engineering, and full-stack products.
 </p>
 
 <p align="center">
-  🤖 Java &nbsp;·&nbsp; 🐍 SpringBoot &nbsp;·&nbsp; ⚡ GCP &nbsp;·&nbsp; ⚛️ React / Next.js
-  &nbsp;·&nbsp; ⚙️ AI Agent Builder &nbsp;·&nbsp; ☁️ Google ADK &nbsp;·&nbsp; 🧠 System Design
+  <a href="https://rahul-portfolio-psi-sand.vercel.app/"><strong>Explore my portfolio ↗</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/rahul-kumar-9066bb216/">LinkedIn</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:rahul.kumar800745@gmail.com">Say hello</a>
 </p>
 
-I build **AI-powered products, scalable backend systems, automation workflows, and production web applications**.
-
-My current engineering interests sit at the intersection of **AI/LLMs, Google ADK, serverless systems, full-stack development, backend architecture, and developer automation**.
-
----
-
-## 🤖 What I Build
-
-- 🧠 **AI / LLM applications** — LLM integrations, AI workflows and intelligent product features
-- 🐍 **Python systems** — APIs, automation, AI services and backend tooling
-- ⚡ **AI bots & serverless workflows** — AWS Lambda-powered automation and AI processing
-- 🚀 **SaaS products** — multi-user applications, dashboards, payments and product infrastructure
-- ⚙️ **Backend systems** — APIs, async processing, caching, real-time systems and integrations
-- ⚛️ **Full-stack applications** — React, Next.js, Node.js and TypeScript
-- 📈 **Performance & scalability** — production optimization, high-volume processing and system design
-
----
-
-## 💼 Experience
-
-### Software Engineer I — Lloyds Technology Centre
-**Dec 2023 – Present**
-
-Working across modern product engineering with a growing focus on **AI engineering and intelligent automation**.
-
-- Develop and maintain enterprise banking applications using Java 17, Spring Boot, REST APIs, Microservices and
-React, with a focus on scalable and reliable customer-facing capabilities.
-• Engineered event-driven asynchronous workflows using Spring Kafka to synchronize customer data changes and
-transaction updates with the Visa network in near real time.
-• Migrated backend infrastructure from Spring 3.x to Spring 4.x, upgrading legacy dependencies and improving
-application security, build stability and access to modern framework capabilities.
-• Designed and developed high-performance RESTful APIs using Java 17 features including Streams, Lambda expressions
-and enhanced Collections for efficient data processing.
-• Implemented SpringWebClient and REST Client for non-blocking inter-service HTTP communication with external
-payment gateways and internal microservices.
-• Built backend APIs in Java and Spring Boot to aggregate financial data and serve frontend applications for digital
-wallet provisioning.
-• Analyzed and optimized database queries and data models, delivering a 20% performance improvement and 15%
-reduction in database operational costs.
-• Automated build and release workflows by configuring and maintaining CI/CD pipelines using Jenkins and Harness
-across multiple environments.
-• Monitored and troubleshot production microservices on GCP using logs, Kubernetes clusters and containerized
-pods, supporting high availability and production stability.
-
-### Associate Software Engineer — Neebal Technologies
-**June 2022 – Nov 2023**
-
-  Developed scalable RESTful APIs and backend services using Java and Spring Boot for enterprise applications.
-• Improved application performance by 32% through backend optimization and scalable service design.
-• Applied OOP principles, SOLID concepts and design patterns to improve code maintainability and scalability.
-• Implemented Redis caching to reduce database load and improve API response performance.
-• Used Maven for dependency management, compilation, and automated builds.
-• Achieved 95% test coverage using JUnit and API testing practices and supported defect resolution across development
-and testing cycles.
-
-### Jr. Executive - IT (Test Engineer)  - ITC Infotech
-**April 2022 – June 2022**
-
-Performed Smoke, Functional, Regression, Integration, and System Testing; supported UAT.
-• Designed and maintained automated test scripts using TestNG for new and existing test scenarios.
-
-
----
-
-## 🧩 Featured Projects
-
-### 🔥 AI Card Management Agent (DigiCards) - Multi-Agent Conversational Banking Copilot
-Tech stack: Google ADK + Gemini, React 19/TypeScript, FastAPI, Docker, Terraform
-
-• Designed and built a multi-agent conversational AI system with a root orchestrator and five specialist sub-agents
-for natural-language debit/credit card operations including card status, controls, limits, PIN, replacement, rewards,
-transactions, statements, EMI, Auto Pay and wallet capabilities.
-
-
-### 🚀Enterprise Online Examination Platform
-Tech stack: Java, Spring Boot, Spring Security, React, TypeScript, MySQL, WebSocket, JWT
-
-• Built a full-stack examination platform with JWT authentication, real-time proctored exams using WebSocket,
-browser-based coding evaluation with Monaco Editor, and AI-assisted question generation and grading.
-
----
-
-## 🛠️ Engineering Stack
-
-### 🤖 AI / Machine Learning
-`Python` `LLMs` `AI Agents` `AI Bots` `Gemini API` `LangChain` `FAISS` `LLM APIs` `AI Automation`
-
-### ⚛️ Frontend
-`React` `Next.js` `TypeScript` `JavaScript` `Redux` `React Query` `Tailwind CSS` `Material UI`
-
-### ⚙️ Backend
-`Java` `Express` `FastAPI` `REST APIs` `GraphQL` `Socket.IO`
-
-### 🗄️ Databases
-`PostgreSQL` `MySql` `Redis`
-
-### ☁️ Cloud / DevOps
-`GCP` `Google ADK` `Docker`  `GitHub Actions` `Vercel`
-
-### 🧠 Architecture
-`System Design` `Microfrontends` `API Architecture` `Real-time Systems` `Async Workflows` `Caching` `Performance Optimization`
-
-
----
-
-## 📫 Connect With Me
-
-<p>
-  💼 <a href="https://www.linkedin.com/in/rahul-kumar-9066bb216/">LinkedIn</a><br>
-  🌐 <a href="https://rahul-portfolio-psi-sand.vercel.app/">Portfolio</a><br>
-  📧 <a href="mailto:rahul.kumar800745@gmail.com">Email</a>
+<p align="center">
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#selected-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#engineering-stack">Stack</a> &nbsp;·&nbsp;
+  <a href="#experience">Experience</a> &nbsp;·&nbsp;
+  <a href="#connect">Connect</a>
 </p>
 
-> **Build things. Automate the boring parts. Scale what matters.**
+---
+
+## About
+
+I'm Rahul, a software engineer who enjoys turning complex workflows into useful, reliable products. My work spans enterprise banking, event-driven backend services, and AI-powered applications.
+
+| Intelligent applications | Reliable foundations | End-to-end products |
+| :--- | :--- | :--- |
+| AI agents, LLM integrations, and conversational workflows | Java / Spring Boot APIs, event-driven systems, and caching | React / Next.js interfaces, SaaS platforms, and automation |
+
+> **Current focus:** Multi-agent systems with Google ADK and Gemini, serverless workflows, and production-ready AI features.
+
+## Selected projects
+
+| 01 / DigiCards | 02 / Enterprise Examination Platform |
+| :--- | :--- |
+| **Multi-agent conversational banking copilot** | **Full-stack, AI-assisted assessment platform** |
+| Natural-language card management through a root orchestrator and five specialist agents. | Real-time proctored exams, browser-based coding evaluation, and AI-assisted question generation and grading. |
+| `Google ADK` `Gemini` `FastAPI` `React 19` `TypeScript` | `Java` `Spring Boot` `Spring Security` `React` `TypeScript` |
+| `Docker` `Terraform` | `MySQL` `WebSocket` `JWT` `Monaco Editor` |
+
+<details>
+<summary><strong>Inside DigiCards: conversational card operations</strong></summary>
+
+A multi-agent system for debit and credit card workflows, with a root orchestrator coordinating five specialist sub-agents.
+
+- **Card management:** Status, controls, limits, PIN, and replacement.
+- **Financial workflows:** Rewards, transactions, statements, EMI, and Auto Pay.
+- **Connected experiences:** Wallet capabilities through a conversational interface.
+
+The application combines a React 19 / TypeScript frontend, FastAPI services, Google ADK and Gemini, with Docker and Terraform.
+
+</details>
+
+<details>
+<summary><strong>Inside the examination platform: real-time assessment</strong></summary>
+
+- **Secure access:** JWT authentication with Spring Security.
+- **Live exam experience:** WebSocket-based real-time proctored exams.
+- **Coding assessments:** Browser-based code evaluation with Monaco Editor.
+- **AI assistance:** Question generation and grading.
+
+Built with Java, Spring Boot, React, TypeScript, and MySQL.
+
+</details>
+
+**[Browse my public repositories ↗](https://github.com/Rahulshah1256?tab=repositories)**
+
+## Engineering stack
+
+| Layer | Technologies |
+| :--- | :--- |
+| **AI & agents** | `Google ADK` `Gemini API` `Python` `LangChain` `FAISS` `LLM APIs` |
+| **Backend & messaging** | `Java 17` `Spring Boot` `Spring Security` `Spring Kafka` `FastAPI` `Node.js` `Express` |
+| **Frontend** | `React` `Next.js` `TypeScript` `Redux` `React Query` `Tailwind CSS` `Material UI` |
+| **Data & real time** | `PostgreSQL` `MySQL` `Redis` `REST` `GraphQL` `WebSocket` `Socket.IO` |
+| **Cloud & delivery** | `GCP` `AWS Lambda` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `Jenkins` `Harness` `Vercel` |
+| **Quality & builds** | `JUnit` `TestNG` `Maven` |
+
+**Engineering lens:** System design, API architecture, asynchronous workflows, caching, and performance optimization.
+
+## Experience
+
+<details open>
+<summary><strong>Software Engineer I · Lloyds Technology Centre</strong> &nbsp; | &nbsp; Dec 2023 - Present</summary>
+
+Building and maintaining enterprise banking applications with Java 17, Spring Boot, microservices, and React.
+
+- Engineered Spring Kafka workflows to synchronize customer and transaction updates with the Visa network in near real time.
+- Developed REST APIs and financial-data aggregation services for digital wallet provisioning.
+- Modernized Spring dependencies and integrated payment gateways and internal services using Spring WebClient and REST clients.
+- Optimized database queries and data models, delivering **20% better performance** and **15% lower database operational costs**.
+- Maintained Jenkins / Harness delivery pipelines and supported production microservices on GCP and Kubernetes.
+
+</details>
+
+<details>
+<summary><strong>Associate Software Engineer · Neebal Technologies</strong> &nbsp; | &nbsp; Jun 2022 - Nov 2023</summary>
+
+- Developed enterprise REST APIs and backend services with Java and Spring Boot.
+- Improved application performance by **32%** through backend optimization and scalable service design.
+- Implemented Redis caching to reduce database load and improve API responsiveness.
+- Applied OOP, SOLID principles, and design patterns; used Maven for dependency management and builds.
+- Achieved **95% test coverage** using JUnit and API testing practices, and supported defect resolution.
+
+</details>
+
+<details>
+<summary><strong>Jr. Executive - IT (Test Engineer) · ITC Infotech</strong> &nbsp; | &nbsp; Apr 2022 - Jun 2022</summary>
+
+- Performed smoke, functional, regression, integration, and system testing; supported UAT.
+- Designed and maintained TestNG automation scripts for new and existing scenarios.
+
+</details>
+
+## Connect
+
+Interested in AI agents, backend architecture, or building useful products? Let's connect.
+
+**[Portfolio](https://rahul-portfolio-psi-sand.vercel.app/)** &nbsp; / &nbsp;
+**[LinkedIn](https://www.linkedin.com/in/rahul-kumar-9066bb216/)** &nbsp; / &nbsp;
+**[Email](mailto:rahul.kumar800745@gmail.com)**
+
+---
+
+<p align="center">
+  <samp>Build things. Automate the boring parts. Scale what matters.</samp><br><br>
+  <a href="#about">Back to about ↑</a>
+</p>
